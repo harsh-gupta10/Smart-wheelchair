@@ -12,4 +12,4 @@ https://hemanth-sunkireddy.github.io/IoT_Project/
 4. run npm i
 5. run npm run dev
 
-![a](./WhatsApp Image 2023-06-14 at 10.31.34 AM.jpeg)
+![a](./GrpPhoto.jpeg)
